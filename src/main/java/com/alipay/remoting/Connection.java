@@ -43,6 +43,7 @@ import io.netty.util.AttributeKey;
  * @author yunliang.shi
  * @version $Id: Connection.java, v 0.1 Mar 10, 2016 11:30:54 AM yunliang.shi Exp $
  */
+//对连接的封装抽象
 public class Connection {
 
     private static final Logger                                                   logger           = BoltLoggerFactory
